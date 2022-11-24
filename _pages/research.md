@@ -81,7 +81,7 @@ sidebar:
   </details>
 
 + **Stick or Twist: Agile Resource Allocation During Periods of Industry Change**.  
-*Under Review*. 2022. Eklund, J. & Kang, H.
+*Revise and Resubmit*. 2022. Eklund, J. & Kang, H.
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Strategy scholars have extensively studied how incumbent firms respond to industry shocks. One under-studied factor shaping how incumbents respond relates to how effectively they reallocate their resources to take advantage of opportunities emerging from a shock. Using an adjustment cost lens, we argue that firms with more fungible and decomposable resources are better able to take advantage of any opportunities emerging from a shock. Further, we argue that firms operating in less competitive markets will respond more effectively to the shock as they face lower adjustment costs. We find support for our arguments in the context of the US domestic airline industry following the significant impact of COVID-19 on passenger volumes, with some airlines better able to navigate the shift to freight transportation than others.</blockquote>
