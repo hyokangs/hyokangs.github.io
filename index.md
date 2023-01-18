@@ -15,5 +15,5 @@ My research interest broadly lies in firm strategy and business economics, with 
   3. Competition for innovation and intellectual property rights  
 
 <br />
-<img src="https://www.marshall.usc.edu/themes/custom/usc_base/logo.svg" width="200" style="float:right">
+<img src="https://identity.usc.edu/wp-content/uploads/2022/08/PrimaryLogotype-768x164.png" width="200" style="float:right">
 <!--<a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>-->
