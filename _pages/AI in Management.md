@@ -3,16 +3,17 @@ title:
 layout: single
 classes: wide
 author-profile: false
+navigation: false
 permalink: /aim2023/
 ---
 
 # 3rd AI in Management (AIM) Conference
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USC_Marshall_logo.png/800px-USC_Marshall_logo.png" width=200>
-
 University Park Campus (UPC) \
 Marshall School of Business, University of Southern California \
 March 16-17, 2023
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USC_Marshall_logo.png/800px-USC_Marshall_logo.png" width=200>
 
 ## Tentative Program
 TBA
