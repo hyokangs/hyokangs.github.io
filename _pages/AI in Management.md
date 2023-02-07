@@ -3,7 +3,7 @@ title:
 layout: single
 classes: wide
 author-profile: false
-navigation: false
+masthead: false
 permalink: /aim2023/
 ---
 
