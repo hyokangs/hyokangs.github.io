@@ -8,7 +8,7 @@ permalink: /aim2023/
 
 # 3rd AI in Management (AIM) Conference
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USC_Marshall_logo.png/800px-USC_Marshall_logo.png" width=400>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USC_Marshall_logo.png/800px-USC_Marshall_logo.png" width=200>
 
 University Park Campus (UPC) \
 Marshall School of Business, University of Southern California \
@@ -20,16 +20,16 @@ TBA
 ### Conference Registration: [Link to Site]
 
 ## Conference Co-Chairs:
-Milan Miric
-Hyo Kang
-Gerard J. Tellis  
+- Milan Miric
+- Hyo Kang
+- Gerard J. Tellis  
 
 ## Conference Sponsored By:
-_USC Marshall Center for Global Innovation (CGI)_  
-_USC Marshall Institute for Outlier Research in Business (iORB)_  
-_USC Marshall Institute for Digital Competition_  
-_Informs Society of Marketing Science (ISMS)_  
-_Marketing Science Institute (MSI)_
+- USC Marshall Center for Global Innovation (CGI)
+- USC Marshall Institute for Outlier Research in Business (iORB)
+- USC Marshall Institute for Digital Competition
+- Informs Society of Marketing Science (ISMS)
+- Marketing Science Institute (MSI)
 
 ## Conference Topics
 -   Identifying Fake Reviews, Posts, and Accounts
