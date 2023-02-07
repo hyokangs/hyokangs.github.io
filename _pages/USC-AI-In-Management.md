@@ -4,7 +4,6 @@ layout: single
 classes: wide
 author-profile: false
 permalink: /USC-AI-In-Management/
-
 ---
 
 # 3rd AI in Management (AIM) Conference
