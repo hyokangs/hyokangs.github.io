@@ -64,7 +64,7 @@ sidebar:
     <blockquote>This paper examines how price competition in the product market affects the intensity and breadth of innovation. I assemble a unique data set comprising all 461 collusion cases prosecuted in the United States from 1975 through 2016 and match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-differences methodology show a negative relationship between price competition and innovation. When collusion suppressed price competition, colluding firms increased patent filings by 28 percent and top-quality patents by 20 percent. A significant portion of these patents are attributable to genuine innovation activities because innovation inputs—R&D investment and the number of unique patenting inventors—increased in tandem by 16 percent and 34 percent, respectively. Furthermore, the number of patented technology classes increased by 16 percent as firms broadened their scope of innovation by exploring new technological areas. When competition was restored by collusion breakup, the increased and broadened innovation activities reverted to their previous levels. The effects were greater for collusion that was stronger and in fast-growing industries. I further explore market profitability and financial constraints on firms as potential mechanisms driving the trade-off between price competition and innovation growth.</blockquote>
   </details>
 
-+ **Fast Friends: The Impact of Short-term Migration on Firms’ Invention Outcomes**.  
++ **Fast Friends: The Impact of Short-term Migration on Firms' Invention Outcomes**.  
 *Revise and Resubmit* (2nd round). 2023. Kang, H. & Eklund, J.
   <details>
   <summary><font color="gray">Abstract +</font></summary>
