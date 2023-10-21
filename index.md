@@ -9,7 +9,10 @@ author_profile: true
 <br />
 Hyo Kang is an Assistant Professor of Management and Organization at USC Marshall School of Business. His research is centered on competitive strategy, strategic human capital, and the economics of innovation, examining how firms manage their innovation processes and outcomes within rapidly changing business landscapes.
 
-Specifically, Hyo Kang's research focuses on three core areas of competition: (1) product market competition (e.g., whether and how price-fixing cartels affect firm innovation), (2) competition for human capital (e.g., worker mobility within and across firms and borders), and (3) competition for innovation and intellectual property rights (e.g., how worker mobility influences firms' strategic decisions regarding patenting versus secrecy).
+Specifically, Hyo Kang's research focuses on three core areas of competition:
+  + Product market competition (e.g., whether and how price-fixing cartels affect firm innovation)
+  + Competition for human capital (e.g., worker mobility within and across firms and borders)
+  + Competition for innovation and intellectual property rights (e.g., how worker mobility influences firms' strategic decisions regarding patenting versus secrecy).
 
 In this context, Hyo has empirically examined a diverse array of topics, encompassing antitrust enforcements, the US visa waiver program, non-compete agreements, short-selling regulations, and a randomized controlled trial focused on patent renewals. Through these studies, Hyo's overarching research theme is dedicated to uncovering strategies and public policies that stimulate innovation, ultimately enhancing firms' strategic positioning and performance.
 
