@@ -19,5 +19,5 @@ In this context, I have empirically examined a diverse array of topics, encompas
 In recent days, I also explore the impact of artificial intelligence on decision-making, knowledge creation, and organizational performance. The context includes an AI-powered X-ray triage solution and an AI-powered Go programs.
 <br />
 <br />
-<p align="center"><font color="white"><img src="https://ide.mit.edu/wp-content/themes/mit/dist/img/MIT-IDE-logo.png" width="121" align="right">..<img src="https://identity.usc.edu/wp-content/uploads/2022/08/PrimaryLogotype-768x164.png" width="200" align="right"></font></p>
+<img src="https://ide.mit.edu/wp-content/themes/mit/dist/img/MIT-IDE-logo.png" width="120" align="right"><img src="https://identity.usc.edu/wp-content/uploads/2022/08/PrimaryLogotype-768x164.png" width="200" align="right">
 <!--<a href="/assets/pdf/CV-Hyo-Kang.pdf" class="btn btn--warning" target="_blank">Curriculum Vitae</a>-->
