@@ -13,8 +13,7 @@ sidebar:
 # Publications
 
 + **Reproducibility in Management Science**.  
-*Management Science* (Forthcoming). 2024. Fišar, et al.<br>
-(_Consortium authorship_ as a member of the Management Science Reproducibility Collaboration)
+*Management Science* (Forthcoming). 2024. Fišar, et al. * *Consortium coauthorship*
 <span style="float:right"><a href="https://doi.org/10.1287/mnsc.2023.03556" class="btn btn--warning btn--small">Journal (Open Access)</a>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
