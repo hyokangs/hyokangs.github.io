@@ -14,7 +14,7 @@ sidebar:
 
 + **Reproducibility in Management Science**.  
 *Management Science* Published Online. 2024. Fišar, et al.
-<span style="float:right"><a href="https://doi.org/10.1287/mnsc.2023.03556" class="btn btn--warning btn--small">Journal (Open Access)</a>
+<span style="float:right"><a href="https://doi.org/10.1287/mnsc.2023.03556" class="btn btn--warning btn--small">Journal (Open Access)</a>><br>
 (Note: _Consortium authorship_ as a member of the Management Science Reproducibility Collaboration)
   <details>
   <summary><font color="gray">Abstract +</font></summary>
