@@ -52,7 +52,7 @@ sidebar:
     <blockquote>This study examines factors underlying three phases of change or persistence in industrial leadership in the sector of interchangeable-lens cameras over the past century. During this period there were two major phases of leadership change, both associated with the emergence of innovations involving major discontinuities in the industry’s core technologies. First, Japan won market leadership from Germany in the mid-1960s after commercializing the single-lens reflex (SLR) camera that replaced the previously dominant German rangefinder camera. Second, in the late-2000s, Japanese latecomer firms and a Korean firm developed Mirrorless cameras, which allowed them to capture the majority of market share from the incumbent Japanese leaders. We also examine the long period (about 60 years) between these two phases of change, during which leading Japanese firms were able to sustain their market leadership despite the digital revolution from the 1980s to 1990s. This paper explores the factors influencing these contrasting experiences of change and persistence in industry leadership. The analysis integrates several aspects of sectoral innovation systems – i.e., windows of opportunity associated with technology, demand, and institution – as well as the strategies of incumbents and latecomer firms. The conclusions highlight the complex and diverse combinations and importance of the factors that help explain the patterns of shifts in leadership.</blockquote>
   </details>
 
-#### Consortium authorship
+***Consortium authorship***
 
 + **Reproducibility in Management Science**.  
 *Management Science* (Forthcoming). 2024. Fišar, M., Greiner, B., Huber, C., Katok. E., Ozkes, A., and the *Management Science* Reproducibility Collaboration.
