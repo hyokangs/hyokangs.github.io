@@ -11,7 +11,26 @@ sidebar:
 <div style="margin-top:10px;"></div> <!-- -30px -->
 
 # Publications
+
+
++ **Fast Friends: The Impact of Short-term Migration on Firms' Invention Outcomes**.  
+*Organization Science*, Conditional Accept. 2024. Kang, H. & Eklund, J.
+<span style="float:right"><a href="https://www.ssrn.com/abstract=4742137" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/Kang-Eklund-2024-Fast-Friends.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>Large firms generally undertake their research and development (R&D) activities through networks of laboratories located in multiple countries. Scholars have sought to understand how knowledge flows between these R&D centers through examining firms’ use of information technology, shared common routines, and long-term immigration of human capital. Less is known about whether short-term migration of scientists between R&D centers located in different countries can impact firms’ intra-organizational knowledge flows and resultant invention outcomes. However, firms often leverage short-term migration of employees, thus understanding how it can impact firms’ invention outcomes is important. We theoretically argue that short-term migration of employees to R&D centers in other countries can help to lower the communication costs associated with transferring tacit knowledge between different R&D centers. In turn, this will translate into firms creating a greater quantity of inventions that draw on a broader scope of knowledge. Further, we suggest that these benefits of reduced communication costs on firms’ invention outcomes will be magnified if the two R&D centers have an intermediate level of knowledge overlap and if their primary spoken languages differ. To empirically test these arguments, we take advantage of the creation of the visa-waiver program for up to 42 countries which increased their citizens’ ease of visiting the USA. We broadly find support for our theoretical arguments in the context of the pharmaceutical industry. Further, we find that both R&D centers (host and visitor) gain from short term migration with the magnitude being greater for centers with access to more resources.</blockquote>
+  </details>
   
++ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
+*Strategic Management Journal*, Conditional Accept. 2024. Choi, S., Kang, H., Kim, N., & Kim, J.
+<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
+<a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
+  <details>
+  <summary><font color="gray">Abstract +</font></summary>
+    <blockquote>We study how humans learn from AI, exploiting an introduction of an AI-powered Go program (APG) that unexpectedly outperformed the best professional player. We compare the move quality of professional players to that of APG's superior solutions around its public release. Our analysis of 749,190 moves demonstrates significant improvements in players' move quality, accompanied by decreased number and magnitude of errors. The effect is pronounced in the early stages of the game where uncertainty is highest. In addition, younger players and those in AI-exposed countries experience greater improvement, suggesting potential inequality in learning from AI. Further, while players of all levels learn, less skilled players derive higher marginal benefits. These findings have implications for managers seeking to adopt and utilize AI effectively within their organizations.</blockquote>
+  </details>
+    
 + **How Innovating Firms Manage Knowledge Leakage: A Natural Experiment on the Threat of Worker Departure**.  
 *Strategic Management Journal* 43(10): 1961-1982. 2022. Kang, H. & Lee, W.
 <span style="float:right"><a href="https://doi.org/10.1002/smj.3404" class="btn btn--warning btn--small">Journal (Open Access)</a>
@@ -64,22 +83,6 @@ sidebar:
 
 # Working Papers
 
-+ **Fast Friends: The Impact of Short-term Migration on Firms' Invention Outcomes**.  
-*Organization Science*, Conditional Accept. 2024. Kang, H. & Eklund, J.
-  <details>
-  <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>Large firms generally undertake their research and development (R&D) activities through networks of laboratories located in multiple countries. Scholars have sought to understand how knowledge flows between these R&D centers through examining firms’ use of information technology, shared common routines, and long-term immigration of human capital. Less is known about whether short-term migration of scientists between R&D centers located in different countries can impact firms’ intra-organizational knowledge flows and resultant invention outcomes. However, firms often leverage short-term migration of employees, thus understanding how it can impact firms’ invention outcomes is important. We theoretically argue that short-term migration of employees to R&D centers in other countries can help to lower the communication costs associated with transferring tacit knowledge between different R&D centers. In turn, this will translate into firms creating a greater quantity of inventions that draw on a broader scope of knowledge. Further, we suggest that these benefits of reduced communication costs on firms’ invention outcomes will be magnified if the two R&D centers have an intermediate level of knowledge overlap and if their primary spoken languages differ. To empirically test these arguments, we take advantage of the creation of the visa-waiver program for up to 42 countries which increased their citizens’ ease of visiting the USA. We broadly find support for our theoretical arguments in the context of the pharmaceutical industry. Further, we find that both R&D centers (host and visitor) gain from short term migration with the magnitude being greater for centers with access to more resources.</blockquote>
-  </details>
-  
-+ **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
-*Strategic Management Journal*, Conditional Accept. 2024. Choi, S., Kang, H., Kim, N., & Kim, J.
-<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
-<a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
-  <details>
-  <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>We study how humans learn from AI, exploiting an introduction of an AI-powered Go program (APG) that unexpectedly outperformed the best professional player. We compare the move quality of professional players to that of APG's superior solutions around its public release. Our analysis of 749,190 moves demonstrates significant improvements in players' move quality, accompanied by decreased number and magnitude of errors. The effect is pronounced in the early stages of the game where uncertainty is highest. In addition, younger players and those in AI-exposed countries experience greater improvement, suggesting potential inequality in learning from AI. Further, while players of all levels learn, less skilled players derive higher marginal benefits. These findings have implications for managers seeking to adopt and utilize AI effectively within their organizations.</blockquote>
-  </details>
-  
 + **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
 *Revise and Resubmit* (3rd round). 2024. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
