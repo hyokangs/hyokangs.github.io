@@ -12,9 +12,8 @@ sidebar:
 
 # Publications
 
-
 + **Fast Friends: The Impact of Short-term Migration on Firms' Invention Outcomes**.  
-*Organization Science*, Conditional Accept. 2024. Kang, H. & Eklund, J.
+*Organization Science*, Accepted. 2024. Kang, H. & Eklund, J.
 <span style="float:right"><a href="https://www.ssrn.com/abstract=4742137" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-Eklund-2024-Fast Friends.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
@@ -84,7 +83,7 @@ sidebar:
 # Working Papers
 
 + **How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases**.  
-*Revise and Resubmit* (3rd round). 2024. Kang, H.
+*Minor Revision*. 2024. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
