@@ -12,7 +12,7 @@ sidebar:
 
 # Publications
 
-+ **Price-Fixing Cartels and Firm Innovation**.
++ **Price-Fixing Cartels and Firm Innovation**.  
 *Management Science*, Accepted. 2024. Kang, H.
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
