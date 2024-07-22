@@ -14,6 +14,7 @@ sidebar:
 
 + **Price-Fixing Cartels and Firm Innovation**.  
 *Management Science*, Accepted. 2024. Kang, H.
+  - Former title: *How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases.*
 <span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Paper.pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
 <a href="/assets/pdf/Kang-2021-Price Competition and Innovation-Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
@@ -21,7 +22,6 @@ sidebar:
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>This paper examines how price competition in the product market affects the intensity and breadth of innovation. I assemble a unique data set comprising all 461 collusion cases prosecuted in the United States from 1975 through 2016 and match 1,818 collusive firms to firm-level data on innovation. Empirical results from a difference-in-differences methodology show a negative relationship between price competition and innovation. When collusion suppressed price competition, colluding firms increased patent filings by 28 percent and top-quality patents by 20 percent. A significant portion of these patents are attributable to genuine innovation activities because innovation inputs—R&D investment and the number of unique patenting inventors—increased in tandem by 16 percent and 34 percent, respectively. Furthermore, the number of patented technology classes increased by 16 percent as firms broadened their scope of innovation by exploring new technological areas. When competition was restored by collusion breakup, the increased and broadened innovation activities reverted to their previous levels. The effects were greater for collusion that was stronger and in fast-growing industries. I further explore market profitability and financial constraints on firms as potential mechanisms driving the trade-off between price competition and innovation growth.</blockquote>
   </details>
-  - Former title: *How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases.*
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
 *Strategic Management Journal*, Conditional Accept. 2024. Choi, S., Kang, H., Kim, N., & Kim, J.
