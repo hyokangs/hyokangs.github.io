@@ -99,9 +99,9 @@ author:
   location         : #"Los Angeles, CA"
   email            : 
   links:
-    - label: "hyokang@marshall.usc.edu"
+    - label: "hyokang@snu.ac.kr"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:hyokang@marshall.usc.edu"
+      url: "mailto:hyokang@snu.ac.kr"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=4uWW4QcAAAAJ&hl=en"
