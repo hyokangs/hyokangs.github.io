@@ -7,7 +7,7 @@ author_profile: true
 
 ### Welcome!
 <br />
-I am an Associate Professor of Strategy and International Management at SNU Business School, Seoul National University. Priror to joing SNU, I was an Assistant Professor of Management and Organization at the USC Marshall School of Business.
+I am an Associate Professor of Strategy and International Management at SNU Business School, Seoul National University. Prior to joing SNU, I was an Assistant Professor of Management and Organization at the USC Marshall School of Business (2019-2024).
 
 My research focuses on technological innovation in firms, delving into external drivers of innovation such as business regulations and policies, the management of innovation processes including team configuration, and the consequences of innovation like the impact of AI. In this context, I have conducted empirical research on a variety of subjects, including antitrust enforcement, the US visa waiver program, non-compete agreements, short-selling regulations, and a randomized controlled trial on patent renewals.
 
