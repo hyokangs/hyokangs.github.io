@@ -103,7 +103,7 @@ author:
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hyokang@snu.ac.kr"
     - label: "SNU Website"
-      icon: "fab fa-fw fa-university"
+      icon: "fas fa-fw fa-university"
       url: "https://cba.snu.ac.kr/en/research/faculty/professor?major=2&idx=13161"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
