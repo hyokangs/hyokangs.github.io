@@ -20,7 +20,7 @@ title                    : "Hyo Kang"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyo Kang"
-description              : "Assistant Professor of Management and Organization, Marshall School of Business, University of Southern California. Research Affiliate, MIT Initiative on the Digital Economy. Studies competitive strategy, strategic management, the economics of innovation, technological innovation, knowledge management, mobility of workers and businesses, and business law and policy."
+description              : "Associate Professor of Strategy and International Management, SNU Business School, Seoul National University. Research Affiliate, MIT Initiative on the Digital Economy. Studies competitive strategy, strategic management, the economics of innovation, technological innovation, knowledge management, mobility of workers and businesses, and business law and policy."
 url                      : "https://hyokang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hyokangs/hyokangs.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,13 +95,16 @@ analytics:
 author:
   name             : "Hyo Kang"
   avatar           : "/assets/images/HyoKang3.jpg"
-  bio              : "*Assistant Professor*<br />Marshall School of Business<br />University of Southern California<br /><br />*Research Affiliate*<br />MIT Initiative on the Digital Economy"
+  bio              : "*Associate Professor*<br />SNU Business School<br />Seoul National University<br /><br />*Research Affiliate*<br />MIT Initiative on the Digital Economy"
   location         : #"Los Angeles, CA"
   email            : 
   links:
     - label: "hyokang@snu.ac.kr"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:hyokang@snu.ac.kr"
+    - label: "SNU Website"
+      icon: "fab fa-fw fa-university"
+      url: "https://cba.snu.ac.kr/en/research/faculty/professor?major=2&idx=13161"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=4uWW4QcAAAAJ&hl=en"
@@ -111,9 +114,6 @@ author:
     - label: "CV"
       icon: "far fa-fw fa-file-pdf"
       url: "https://hyokangs.github.io/assets/pdf/CV-Hyo-Kang.pdf"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
