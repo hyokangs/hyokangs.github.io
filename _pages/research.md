@@ -25,7 +25,8 @@ sidebar:
 
 + **How Does AI Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
 *Strategic Management Journal*, Accepted. 2024. Choi, S., Kang, H., Kim, N., & Kim, J.
-<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
+<span style="float:right"><span style="float:right"><a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3694" class="btn btn--warning btn--small">Journal (Open Access)</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
