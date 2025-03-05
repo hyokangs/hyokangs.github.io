@@ -10,6 +10,13 @@ sidebar:
 ---
 <div style="margin-top:10px;"></div> <!-- -30px -->
 
+# SNU Business School
+
++ **Strategic Management**, *Instructor* (UG)
+  + <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">Participation survey</a>
+
++ **Research Methods in Strategic Management**, *Co-instructor* (MS/PhD)
+
 # University of Southern California
 
 + **Causal Inference Research Methods**, *Instructor* (GSBA603; PhD)
