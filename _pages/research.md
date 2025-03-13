@@ -16,7 +16,7 @@ sidebar:
 *Management Science*, Forthcoming. 2025. Kang, H.
   + Former title: *How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases.*
 <span style="float:right"><span style="float:right"><a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.01838" class="btn btn--warning btn--small">Journal (Open Access)</a>
-<span style="float:right"><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-2024-Price-Fixing Cartels (ManSci).pdf" class="btn btn--danger btn--small">PDF (Paper)</a>
 <a href="/assets/pdf/Kang-2024-Price-Fixing Cartels (ManSci) - Appendix.pdf" class="btn btn--danger btn--small">PDF (Appendix)</a></span>
   <details>
