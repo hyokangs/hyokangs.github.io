@@ -14,8 +14,9 @@ sidebar:
 
 + **Strategic Management**, *Instructor* (UG)
   + <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">Participation survey</a>
-  + <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjrrBjk4Q2Oq1mpaS4gPV7Qet0bkytfqvpzvSbj9ztWwModg/viewform?usp=dialog">Final exam</a>
-
+  + <a href="https://snu-ac-kr.zoom.us/j/88459928134?pwd=aKtp7ubSruNCMz3WIK2b213VDAGa8J.1">Final exam - Zoom</a>
+  + <a href="https://docs.google.com/forms/d/e/1FAIpQLSfjrrBjk4Q2Oq1mpaS4gPV7Qet0bkytfqvpzvSbj9ztWwModg/viewform?usp=dialog">Final exam - Questions</a>  
+  
 + **Research Methods in Strategic Management**, *Co-instructor* (MS/PhD)
 
 # University of Southern California
