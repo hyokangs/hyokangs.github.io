@@ -13,7 +13,7 @@ sidebar:
 # Publications
 
 + **Price-Fixing Cartels and Firm Innovation**.  
-*Management Science*, Forthcoming. 2025. Kang, H.
+*Management Science*, Ahead of Print. 2025. Kang, H.
   + Former title: *How Does Price Competition Affect Innovation? Evidence from US Antitrust Cases.*
 <span style="float:right"><span style="float:right"><a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2020.01838" class="btn btn--warning btn--small">Journal (Open Access)</a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3516974" class="btn btn--info btn--small">SSRN</a>
@@ -25,7 +25,7 @@ sidebar:
   </details>
 
 + **The Dual Edges of AI: Advancing Knowledge While Reducing Diversity**.  
-*PNAS Nexus*, accepted. 2025. Choi, S., Kang, H., Kim, N., and Kim, J.
+*PNAS Nexus*, 4(5). 2025. Choi, S., Kang, H., Kim, N., and Kim, J.
 <span style="float:right"><span style="float:right"><a href="https://doi.org/10.1093/pnasnexus/pgaf138" class="btn btn--warning btn--small">Journal (Open Access)</a>
 <a href="/assets/pdf/CKKK-PNAS-2025.pdf" class="btn btn--danger btn--small">PDF (Paper)</a></span>
   <details>
@@ -34,17 +34,17 @@ sidebar:
   </details>
   
 + **How Does Artificial Intelligence Improve Human Decision-Making? Evidence from the AI-Powered Go Program**.  
-*Strategic Management Journal*, Accepted. 2025. Choi, S., Kang, H., Kim, N., & Kim, J.
+*Strategic Management Journal*, 46(6). 2025. Choi, S., Kang, H., Kim, N., & Kim, J.
 <span style="float:right"><span style="float:right"><a href="https://onlinelibrary.wiley.com/doi/10.1002/smj.3694" class="btn btn--warning btn--small">Journal (Open Access)</a>
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3893835" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/CKKK-AI-Go.pdf" class="btn btn--danger btn--small">PDF</a></span>
   <details>
   <summary><font color="gray">Abstract +</font></summary>
-    <blockquote>We study how humans learn from AI, exploiting an introduction of an AI-powered Go program (APG) that unexpectedly outperformed the best professional player. We compare the move quality of professional players to that of APG's superior solutions around its public release. Our analysis of 749,190 moves demonstrates significant improvements in players' move quality, accompanied by decreased number and magnitude of errors. The effect is pronounced in the early stages of the game where uncertainty is highest. In addition, younger players and those in AI-exposed countries experience greater improvement, suggesting potential inequality in learning from AI. Further, while players of all levels learn, less skilled players derive higher marginal benefits. These findings have implications for managers seeking to adopt and utilize AI effectively within their organizations.</blockquote>
+    <blockquote>We study how humans learn from artificial intelligence (AI), leveraging an introduction of an AI-powered Go program (APG) that unexpectedly outperformed the best professional player. We compare the move quality of professional players to APG's superior solutions around its public release. Our analysis of 749,190 moves demonstrates significant improvements in players' move quality, especially in the early stages of the game where uncertainty is highest. This improvement was accompanied by a higher alignment with AI's suggestions and a decreased number and magnitude of errors. Young players show greater improvement, suggesting potential inequality in learning from AI. Further, while players of all skill levels benefit, less skilled players gain higher marginal benefits. These findings have implications for managers seeking to adopt and utilize AI in their organizations.</blockquote>
   </details>
   
 + **Fast Friends: The Impact of Short-term Visits on Firms' Invention Outcomes**.  
-*Organization Science*, Published online. 2024. Kang, H. & Eklund, J.
+*Organization Science*, 36(3). 2025. Kang, H. & Eklund, J.
 <span style="float:right"><a href="https://pubsonline.informs.org/doi/full/10.1287/orsc.2021.16081" class="btn btn--warning btn--small">Journal (Open Access)</a>
 <a href="https://www.ssrn.com/abstract=4742137" class="btn btn--info btn--small">SSRN</a>
 <a href="/assets/pdf/Kang-Eklund-2024-Fast Friends.pdf" class="btn btn--danger btn--small">PDF</a></span>
@@ -107,7 +107,7 @@ sidebar:
 # Working Papers
 
 + **Should Firms Maintain Patents Longer? A Randomized Control Trial on the Commercial Value of Patent Protection**.  
-*Revise and Resubmit*. 2024. Thompson, N., Tucci, C., Kang, H. & Khairullina, A.
+*Revise and Resubmit*. 2025. Thompson, N., Tucci, C., Kang, H. & Khairullina, A.
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Globally, firms spend approximately $1.7 trillion on R&D, much of which is aimed at producing patentable innovations. But using patents to cut off competitors’ access to an innovation is expensive to get and to maintain, costing an average of $1–2 million for global protection. That expense is only worthwhile if the exclusivity generated by the patent provides enough commercial value for the firm, principally through higher sales or profitability in the product market. In practice, making decisions whether to get or maintain patents is difficult because firms often can’t quantify the commercial value of a patent, even after the fact, because they never observe the performance of an equivalent innovation that is unpatented. Academics have been similarly stymied in quantifying the commercial value of patents because of (1) strong selection into which innovations are patented, (2) the difficulty in connecting patent protection to specific products, and (3) the commercial sensitivity of product-level financial data.
@@ -115,7 +115,7 @@ sidebar:
   </details>
 
 + **Flying through Turbulent Environments: Physical Resource Reconfiguration and Redeployment in the Airline Industry**.  
-Working Paper. 2023. Eklund, J. & Kang, H.
+Working Paper. 2025. Eklund, J. & Kang, H.
   <details>
   <summary><font color="gray">Abstract +</font></summary>
     <blockquote>Strategy scholars have extensively studied how incumbent firms respond to industry shocks. One under-studied factor shaping how incumbents respond relates to how effectively they reallocate their resources to take advantage of opportunities emerging from a shock. Using an adjustment cost lens, we argue that firms with more fungible and decomposable resources are better able to take advantage of any opportunities emerging from a shock. Further, we argue that firms operating in less competitive markets will respond more effectively to the shock as they face lower adjustment costs. We find support for our arguments in the context of the US domestic airline industry following the significant impact of COVID-19 on passenger volumes, with some airlines better able to navigate the shift to freight transportation than others.</blockquote>
