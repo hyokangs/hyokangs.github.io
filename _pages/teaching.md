@@ -1,4 +1,4 @@
----
+<img width="604" height="104" alt="image" src="https://github.com/user-attachments/assets/bfcd80d8-07ec-4fad-87cc-ce14c5ccb636" />---
 title: 
 layout: single
 classes: wide
@@ -12,10 +12,9 @@ sidebar:
 
 # SNU Business School
 
-+ **AI and Strategic Management**, *Instructor* (<a href="https://forms.gle/XyaM7Aec71Brkzqn9">UG</a>, MBA, E-MBA)
++ **AI and Strategic Management**, *Instructor* (<a href="https://forms.gle/XyaM7Aec71Brkzqn9">UG</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSekhUNgpHgoetznyjPiWvjv6WyriuIkNqROJHKJg2UuwIitNw/viewform?usp=dialog">MBA</a>, E-MBA)
 
-+ **Strategic Management**, *Instructor* (UG)
-  + <a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">Participation survey</a>
++ **Strategic Management**, *Instructor* (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">UG</a>)
   
 + **Research Methods in Strategic Management**, *Co-instructor* (MS/PhD)
 
