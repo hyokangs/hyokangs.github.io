@@ -1,4 +1,4 @@
-<img width="604" height="104" alt="image" src="https://github.com/user-attachments/assets/bfcd80d8-07ec-4fad-87cc-ce14c5ccb636" />---
+---
 title: 
 layout: single
 classes: wide
