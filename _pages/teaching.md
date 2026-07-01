@@ -12,7 +12,7 @@ sidebar:
 
 # SNU Business School
 
-+ **AI and Strategic Management**, *Instructor* (<a href="https://forms.gle/XyaM7Aec71Brkzqn9">UG</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSekhUNgpHgoetznyjPiWvjv6WyriuIkNqROJHKJg2UuwIitNw/viewform?usp=dialog">MBA</a>, E-MBA)
++ **AI and Strategic Management**, *Instructor* (<a href="https://forms.gle/XyaM7Aec71Brkzqn9">UG</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbQL44iD1-wlQKy3agNcBDRsv1hfszHIazBRK_JrAGLHa-pQ/viewform?usp=dialog">MBA</a>, E-MBA)
 
 + **Strategic Management**, *Instructor* (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">UG</a>)
   
