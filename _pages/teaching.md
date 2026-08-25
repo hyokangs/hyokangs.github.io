@@ -10,8 +10,8 @@ sidebar:
 ---
 <div style="margin-top:10px;"></div> <!-- -30px -->
 
-# SNU Business [School
-](https://www.dropbox.com/scl/fi/hzhf6fv6nhiql43gy5par/_hy-_20260825_v2.pptx?rlkey=clns3mqevcako52s1c1g9y2sq&st=d4juxngn&dl=0)
+# SNU Business School
+
 + **AI and Strategic Management**, *Instructor* (<a href="https://forms.gle/XyaM7Aec71Brkzqn9">UG</a>, <a href="https://docs.google.com/forms/d/e/1FAIpQLSfbQL44iD1-wlQKy3agNcBDRsv1hfszHIazBRK_JrAGLHa-pQ/viewform?usp=dialog">MBA</a>, E-MBA)
 
 + **Strategic Management**, *Instructor* (<a href="https://docs.google.com/forms/d/e/1FAIpQLSfqQtdB7KRP8e2PTjkS_71FRxXP5ipo4zP_OZyYkKtKZE-47Q/viewform">UG</a>)
